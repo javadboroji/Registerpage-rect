@@ -1,0 +1,24 @@
+body {
+  margin: 0;
+  padding: 0;
+
+}
+a{
+  text-decoration: none;
+}
+
+
+@media (min-width: 768px) {
+
+}
+@media screen and (max-width: 980px) {
+ 
+}
+@media screen and (max-width:760px) {
+
+}
+@media screen and (max-width: 540px) {
+ 
+
+ 
+}
